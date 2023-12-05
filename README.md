@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Austen967
+- 👋 Hi, I’m Austen Pontwane
 - 👀 I’m interested in data analysis and coding
 - 🌱 I’m currently learning Excel,Pyton and SQL
 - 💞️ I’m looking to collaborate on basic projects
